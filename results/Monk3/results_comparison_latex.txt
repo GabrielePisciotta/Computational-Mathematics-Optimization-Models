@@ -1,0 +1,9 @@
+\begin{tabular}{lrrrrrl}
+\toprule
+{} &       f * &   ||g\_k|| &  \# iterations &  total time (s) &  mean time per it. (s) &          stop reason \\
+opt    &           &           &               &                 &                        &                      \\
+\midrule
+L-BFGS &  0.009706 &  0.005890 &            84 &        0.111122 &               0.000848 &  f threshold reached \\
+MGD    &  0.038028 &  0.086217 &           500 &        0.275250 &               0.000156 &      max it. reached \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,15 @@
+\begin{tabular}{lrrrrrl}
+\toprule
+{} &       f * &   ||g\_k|| &  \# iterations &  total time (s) &  mean time per it. (s) &          stop reason \\
+opt &           &           &               &                 &                        &                      \\
+\midrule
+3   &  0.008432 &  0.005053 &            64 &        0.086079 &               0.001016 &  f threshold reached \\
+5   &  0.009024 &  0.007195 &           302 &        0.338307 &               0.000661 &  f threshold reached \\
+7   &  0.009806 &  0.005740 &            44 &        0.066060 &               0.000934 &  f threshold reached \\
+10  &  0.009817 &  0.003532 &            67 &        0.086078 &               0.000913 &  f threshold reached \\
+15  &  0.009638 &  0.004460 &           236 &        0.481955 &               0.001632 &  f threshold reached \\
+20  &  0.009259 &  0.004049 &            62 &        0.092086 &               0.001096 &  f threshold reached \\
+25  &  0.009775 &  0.004274 &           321 &        0.537156 &               0.001305 &  f threshold reached \\
+30  &  0.009346 &  0.008372 &            43 &        0.067062 &               0.001206 &  f threshold reached \\
+\bottomrule
+\end{tabular}

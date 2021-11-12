@@ -1,0 +1,3 @@
+opt,f *,||g_k||,# iterations,total time (s),mean time per it. (s),stop reason
+L-BFGS,0.9937817747598796,0.24956436469173351,86,6.928496,0.07071062068965518,f threshold reached
+MGD,1.3125697276198942,99.145066715359,500,14.289592,0.019776456,max it. reached
