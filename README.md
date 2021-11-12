@@ -1,7 +1,5 @@
 # Computational Mathematics Project 
 
----
-
 This project has been developed by [Gabriele Pisciotta](https://github.com/GabrielePisciotta/) and [Marco Sorrenti](https://github.com/MarcoSorrenti) in the context of the Computational Mathematics course at the University of Pisa, held by professor Frangioni and professor Poloni. We also thank [Alessandro Cudazzo](https://github.com/alessandrocuda/) for the support and its inspiring code. 
 
 For the full report, covering also the theoretical basis and the results obtained in this case study, [see here](./REPORT.pdf). 
